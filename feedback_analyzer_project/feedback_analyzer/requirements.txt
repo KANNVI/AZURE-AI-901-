@@ -1,0 +1,7 @@
+azure-ai-textanalytics
+azure-ai-vision-imageanalysis
+azure-core
+openai
+streamlit
+pandas
+pytest

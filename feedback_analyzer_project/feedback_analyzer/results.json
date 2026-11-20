@@ -1,0 +1,158 @@
+[
+  {
+    "text": "The delivery was quick and the packaging was excellent.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "delivery",
+      "quick",
+      "packaging"
+    ]
+  },
+  {
+    "text": "Support took three days to reply and did not solve my issue.",
+    "language": "English (assumed)",
+    "sentiment": "negative",
+    "positive": 0.0,
+    "neutral": 0.0,
+    "negative": 1.0,
+    "key_phrases": [
+      "support",
+      "took",
+      "days"
+    ]
+  },
+  {
+    "text": "Great product quality and very easy to use. I love it.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "great",
+      "product",
+      "quality"
+    ]
+  },
+  {
+    "text": "The app is slow and keeps crashing. Terrible experience.",
+    "language": "English (assumed)",
+    "sentiment": "negative",
+    "positive": 0.0,
+    "neutral": 0.0,
+    "negative": 1.0,
+    "key_phrases": [
+      "slow",
+      "keeps",
+      "crashing"
+    ]
+  },
+  {
+    "text": "Staff were friendly and helpful at the store.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "staff",
+      "friendly",
+      "helpful"
+    ]
+  },
+  {
+    "text": "Item arrived damaged and the refund process was a waste of time.",
+    "language": "English (assumed)",
+    "sentiment": "negative",
+    "positive": 0.0,
+    "neutral": 0.0,
+    "negative": 1.0,
+    "key_phrases": [
+      "item",
+      "arrived",
+      "damaged"
+    ]
+  },
+  {
+    "text": "Good value for money. Would recommend to friends.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "good",
+      "value",
+      "money"
+    ]
+  },
+  {
+    "text": "The checkout page is confusing and payment failed twice.",
+    "language": "English (assumed)",
+    "sentiment": "negative",
+    "positive": 0.0,
+    "neutral": 0.0,
+    "negative": 1.0,
+    "key_phrases": [
+      "checkout",
+      "page",
+      "confusing"
+    ]
+  },
+  {
+    "text": "Excellent customer service and fast delivery.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "excellent",
+      "customer",
+      "service"
+    ]
+  },
+  {
+    "text": "Delivery was late and nobody informed me about the delay.",
+    "language": "English (assumed)",
+    "sentiment": "negative",
+    "positive": 0.0,
+    "neutral": 0.0,
+    "negative": 1.0,
+    "key_phrases": [
+      "delivery",
+      "late",
+      "nobody"
+    ]
+  },
+  {
+    "text": "Website design is clean and navigation is smooth.",
+    "language": "English (assumed)",
+    "sentiment": "positive",
+    "positive": 1.0,
+    "neutral": 0.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "website",
+      "design",
+      "clean"
+    ]
+  },
+  {
+    "text": "The product is okay. Nothing special.",
+    "language": "English (assumed)",
+    "sentiment": "neutral",
+    "positive": 0.0,
+    "neutral": 1.0,
+    "negative": 0.0,
+    "key_phrases": [
+      "product",
+      "okay",
+      "nothing"
+    ]
+  }
+]
